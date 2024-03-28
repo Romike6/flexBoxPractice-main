@@ -1,0 +1,21 @@
+header{
+    border: 1px solid black;
+    background-color: gold;
+    height: 150px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+main{
+    border: 1px solid black;
+    background-color: gray;
+    height: 150px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+footer{
+    border: 1px solid black;
+    background-color: blue;
+    height: 150px;
+    width: 100%;
+    margin-bottom: 10px;
+}

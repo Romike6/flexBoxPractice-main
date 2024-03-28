@@ -1,0 +1,40 @@
+header{
+    border: 1px solid black;
+    background-color: gold;
+    height: 150px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+main{
+    height: 150px;
+    width: 100%;
+    margin-bottom: 10px;
+    display: flex;
+    
+}
+.part-1{
+    background-color: grey;
+    border: 1px solid black;
+    height: 150px;
+    flex-basis: 50%;
+    margin-right: 25px
+    
+    
+}
+.part-2{
+    background-color: aqua;
+    border: 1px solid black;
+    min-width: 70%;
+    height: 150px;
+    flex-basis: 50%;
+    margin-left: 25px;
+    
+    
+}
+footer{
+    border: 1px solid black;
+    background-color: blue;
+    height: 150px;
+    width: 100%;
+    margin-bottom: 5px;
+}
